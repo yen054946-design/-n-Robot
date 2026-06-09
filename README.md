@@ -36,4 +36,4 @@ python mô phỏng_.py
 ```
 
 ## 📺 Video Demo Thực Tế (1 - 2 Phút)
-* Đường dẫn xem video kết quả vận hành: [DÁN ĐƯỜNG LINK GOOGLE DRIVE HOẶC LINK YOUTUBE CỦA BẠN VÀO ĐÂY]
+* Đường dẫn xem video kết quả vận hành: [(https://www.youtube.com/watch?v=0T1cx0_3jLI)]
