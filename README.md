@@ -1,8 +1,9 @@
-markdown# Đồ Án Robot Ứng Dụng Học Máy: Nhận Diện Màu Giấy & Mô Phỏng Điều Khiển
+markdown
+# Đồ Án Robot Ứng Dụng Học Máy: Nhận Diện Màu Giấy & Mô Phỏng Điều Khiển
 
 Đồ án thực hiện bài toán nhận diện màu sắc của giấy trong điều kiện ánh sáng thay đổi bằng thuật toán Học máy (Machine Learning) và mô phỏng thuật toán điều khiển hành vi của Robot di chuyển theo quỹ đạo hình tam giác dựa trên kết quả nhận diện thời gian thực qua Webcam.
 
-## 📌 Thành Viên Thực Hiện
+##  Thành Viên Thực Hiện
 * **Họ và tên:** [Lê Thị Hoàng Yến]
 * **Mã số sinh viên (MSSV):** [2421060224]
 * **Đề tài phát triển:** Nhận dạng màu sắc trong điều kiện ánh sáng thay đổi và mô phỏng điều khiển (Phát triển từ đề tài mã A4).
@@ -36,4 +37,5 @@ python mô phỏng_.py
 ```
 
 ## 📺 Video Demo Thực Tế (1 - 2 Phút)
-* Đường dẫn xem video kết quả vận hành: [(https://www.youtube.com/watch?v=0T1cx0_3jLI)]
+* Đường dẫn xem video kết quả vận hành: [https://www.youtube.com/watch?v=0T1cx0_3jLI]
+* Đường dẫn xem video mô phỏng :[https://youtu.be/Vz7noqT1RoQ]
